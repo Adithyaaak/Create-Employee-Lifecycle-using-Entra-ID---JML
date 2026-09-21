@@ -4,8 +4,11 @@ Employee Lifecycle Management using Microsoft Entra ID is an IAM lab project tha
 The project covers:
 
 Joiner: Creating a new employee identity and assigning initial access based on department and job responsibilities.
+
 Mover: Updating an employee’s department and job role while removing previous access and assigning new department-based access.
+
 Leaver: Disabling the employee account and removing group membership when the employee leaves the organization.
+
 Retention & Deletion: Demonstrating how disabled accounts can be retained according to organizational policies before eventual deletion.
 
 The project was implemented using Microsoft Entra ID, with a focus on practical identity administration, access management, and secure employee offboarding.
